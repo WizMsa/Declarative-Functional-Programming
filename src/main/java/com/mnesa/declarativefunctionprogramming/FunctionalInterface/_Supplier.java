@@ -1,4 +1,4 @@
-package com.mnesa.declarativefunctionprogramming;
+package com.mnesa.declarativefunctionprogramming.FunctionalInterface;
 
 import java.util.function.Supplier;
 
